@@ -2,9 +2,8 @@
 <h1 align="center"><b>Hi , I'm Carlos Meisel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Data+Scientist;Nonlinear+Modeller;Poker+Player+%E2%99%A0%EF%B8%8F;Game+Theory+Nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Data+Scientist;Triathlete;Poker+Player+%E2%99%A0%EF%B8%8F" alt="Typing SVG" />
 </p>
-
 ## About Me 🤓
 - Passionate about Data Science and Scientific Computing
 - My daily job consists of developing analytics and modelling systems, however here you will find some of my personal projects, most of which are related to Data Science and Scientific Computing.
