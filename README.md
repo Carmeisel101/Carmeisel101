@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Data+Scientist;Triathlete;Poker+Player+%E2%99%A0%EF%B8%8F" alt="Typing SVG" />
 </p>
+
 ## About Me 🤓
 - Passionate about Data Science and Scientific Computing
 - My daily job consists of developing analytics and modelling systems, however here you will find some of my personal projects, most of which are related to Data Science and Scientific Computing.
@@ -32,6 +33,4 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Carmeisel101&theme=github-dark-dimmed&custom_title=Carlos%20Meisel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</a>
+![metrics](./metrics.classic.svg)
