@@ -14,16 +14,16 @@
 - I also enjoy endurance sports, add me on Strava! 🏃🏽‍♂️ [![Strava: Carlos Meisel](https://img.shields.io/badge/-carlosmeisel-red?style=flat-square&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/125600291?utm_source=ios_share&utm_medium=social&share_sig=3512FDBD1715896932&_branch_match_id=1120026467946289494&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1o8qdE9zSrfwcvVKAgBgEJZbIwAAAA%3D%3D)](https://strava.app.link/ZqGfBg8JEJb)
 - I also watch a lot of movies,if you like movies, follow me on Letterboxd 🎬 [![Letterboxd](https://img.shields.io/badge/-orange?style=flat-square&color=gray&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCAyNCI+PGNpcmNsZSBjeD0iMjAiIGN5PSIxMiIgcj0iMTIiIGZpbGw9IiNGRjgwMDAiIGZpbGwtb3BhY2l0eT0iMC44NSIvPjxjaXJjbGUgY3g9IjMyIiBjeT0iMTIiIHI9IjEyIiBmaWxsPSIjMDBFMDU0IiBmaWxsLW9wYWNpdHk9IjAuODUiLz48Y2lyY2xlIGN4PSI0NCIgY3k9IjEyIiByPSIxMiIgZmlsbD0iIzQwQkNGNCIgZmlsbC1vcGFjaXR5PSIwLjg1Ii8+PC9zdmc+&link=https://boxd.it/5PmJl)](https://boxd.it/5PmJl)
 
-- Creator and maintainer of [SignaPy](https://github.com/Carmeisel101/signapy), an open-source Python library for exploratory feature discovery in labeled datasets. It helps data scientists quantify and localize predictive signal before modeling.
+- Creator and maintainer of [SignaPy](https://github.com/meiridian/signapy), an open-source Python library for exploratory feature discovery in labeled datasets. It helps data scientists quantify and localize predictive signal before modeling.
 
 <br>
 
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carmeisel101/Carmeisel101/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carmeisel101/Carmeisel101/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Carmeisel101/Carmeisel101/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meiridian/meiridian/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meiridian/meiridian/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/meiridian/meiridian/output/github-snake.svg" />
   </picture>
 </p>
 
